@@ -1,7 +1,7 @@
 # LR-GesRec: Long-tailed and Real-time Hand Gesture Recognition in the Radio-Frequency Spectrum
-This is an official implementation of "This is an official implementation of "DEN: Disentangling and Exchanging Network for Depth Completion" by Arthur Wu at Dec 19, 2019. 
+This is an official implementation of "Long-tailed and Real-time Hand Gesture Recognition in the Radio-Frequency Spectrum" by Arthur Wu at Dec 19, 2019. 
 
-- Result of DEN.
+- Result of LR-GesRec.
 <img src="https://github.com/Lilyo/LR-GesRec/blob/master/fig/demo.gif" width="90%">
 
 ## Introduction
@@ -9,8 +9,7 @@ This is an official implementation of "This is an official implementation of "DE
 ## Quick Test(UNOPENED)
 	-
 ## Pre-trained Model(UNOPENED)
-We provide pre-trained models on ScanNet dataset. Please check [`./checkpoint/ScanNet_gan_2layer_4dis_4scale_1con_60ch_36z_36z/`](./checkpoint/ScanNet_gan_2layer_4dis_4scale_1con_60ch_36z_36z) for download links.
-
+	-
 ## Dataset
 	-
 ## Training(UNOPENED)
