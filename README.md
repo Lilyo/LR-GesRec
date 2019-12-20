@@ -2,15 +2,7 @@
 This is an official implementation of "This is an official implementation of "DEN: Disentangling and Exchanging Network for Depth Completion" by Arthur Wu at Dec 19, 2019. 
 
 - Result of DEN.
-<img src="https://github.com/Lilyo/DEN/blob/master/fig/2D.png" width="90%">
-
-
-
-# Acknowledgement
-Thank Zhongqi Miao for releasing OLTR PyTorch [Repo](https://github.com/zhmiao/OpenLongTailRecognition-OLTR), which I build my work on top. I also apply Ahmet Gunduz's work which can be find in [here](https://github.com/ahmetgunduz/Real-time-GesRec).
-
-- Result of DEN.
-<img src="https://github.com/Lilyo/DEN/blob/master/fig/2D.png" width="90%">
+<img src="https://github.com/Lilyo/LR-GesRec/blob/master/fig/demo.gif" width="90%">
 
 ## Introduction
 	-
@@ -29,3 +21,6 @@ We provide pre-trained models on ScanNet dataset. Please check [`./checkpoint/Sc
 	-
 ## Benchmark
 	-
+# Acknowledgement
+Thank Zhongqi Miao for releasing OLTR PyTorch [Repo](https://github.com/zhmiao/OpenLongTailRecognition-OLTR), which I build my work on top. I also apply Ahmet Gunduz's work which can be find in [here](https://github.com/ahmetgunduz/Real-time-GesRec).
+
