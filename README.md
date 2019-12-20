@@ -2,7 +2,7 @@
 This is an official implementation of "Long-tailed and Real-time Hand Gesture Recognition in the Radio-Frequency Spectrum" by Arthur Wu at Dec 19, 2019. 
 
 - Result of LR-GesRec.
-<img src="https://github.com/Lilyo/LR-GesRec/blob/master/fig/demo.gif" width="90%">
+<img src="https://github.com/Lilyo/LR-GesRec/blob/master/fig/demo.gif" width="100%">
 
 ## Introduction
 	-
